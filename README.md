@@ -142,4 +142,6 @@ if(!isset($get_response->errors))
 }
 ```
 
+## Creating a new Twitter application
+[Creating A Twitter Application](https://docs.wpwebelite.com/social-network-integration/twitter/)
 Thank you :)
